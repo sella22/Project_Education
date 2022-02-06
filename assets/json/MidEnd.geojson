@@ -1,0 +1,163 @@
+{
+	"type": "FeatureCollection",
+	"name": "MidEnd",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"NO": "2",
+				"Nama Warnet": "Lightning Game Center",
+				"Jalan": "HR. Soebrantas",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Mid End",
+				"Rating": "3.6",
+				"Kondisi": "Nyaman",
+				"x": 101.3754023,
+				"Y": 0.4639246,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KtsHHqfwZyvSU_shmEULAFsD29S-e4fk"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.3754023, 0.4639246]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "3",
+				"Nama Warnet": "Flame Game Center",
+				"Jalan": "HR. Soebrantas",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Mid End",
+				"Rating": "3.2",
+				"Kondisi": "Nyaman",
+				"x": 101.371557,
+				"Y": 0.4646772,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KnkD6cA-3B9jXa_G2uVGk2tgfiXoqsGY"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.371557, 0.4646772]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "21",
+				"Nama Warnet": "Akagami Esport",
+				"Jalan": "Bukit Barisan",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "Mid End",
+				"Rating": "3.8",
+				"Kondisi": "Biasa",
+				"x": 101.4922112,
+				"Y": 0.4871353,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1IkyLMAnV_3oWiTzgNjqp8t8pRr0UpjIU"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4922112, 0.4871353]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "23",
+				"Nama Warnet": "NEO 1 Esport Arena",
+				"Jalan": "Imam Munandar",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "Mid End",
+				"Rating": "3.8",
+				"Kondisi": "Nyaman",
+				"x": 101.4878767,
+				"Y": 0.4948861,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1IY8Z-ncys_kMEFfvEcFLN9-8gBQ7W93i"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4878767, 0.4948861]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "24",
+				"Nama Warnet": "Aegis Game Center",
+				"Jalan": "Imam Munandar",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "Mid End",
+				"Rating": "3.3",
+				"Kondisi": "Biasa",
+				"x": 101.4663711,
+				"Y": 0.4990204,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1IQDNjyql9ZS0XQZ1ZsYzTm0WQ6_lpNHA"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4663711, 0.4990204]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "41",
+				"Nama Warnet": "Paradox E-Sport Arena",
+				"Jalan": "Manyar Sakti",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Mid End",
+				"Rating": "3.7",
+				"Kondisi": "Nyamam",
+				"x": 101.3856591,
+				"Y": 0.4683051,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1PFO6txHFBY5ZLRuG_ZP0jehIkKUMKmkG"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.3856591, 0.4683051]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "42",
+				"Nama Warnet": "Brother 168 E-Sport",
+				"Jalan": "Suka Karya",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Mid End",
+				"Rating": "3.9",
+				"Kondisi": "Nyaman",
+				"x": 101.386078,
+				"Y": 0.452589,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1dQfBL2RTvvjm4ZUuhWiahiTZ8-23hfIc"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.386078, 0.452589]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "45",
+				"Nama Warnet": "Grand E-Sport",
+				"Jalan": "Garuda Sakti",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Mid End",
+				"Rating": "3.6",
+				"Kondisi": "Biasa",
+				"x": 101.364548,
+				"Y": 0.480997,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1AQDbfK3V4NJQS7ToXAt-wPoWyHxZaNhN"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.364548, 0.480997]
+			}
+		}
+	]
+}

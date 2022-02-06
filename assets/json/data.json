@@ -1,0 +1,961 @@
+{
+	"type": "FeatureCollection",
+	"name": "Pemetaan_Warnet_1",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"NO": "1",
+				"Nama Warnet": "-",
+				"Jalan": "HR. Soebrantas",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.425493371077,
+				"Y": 0.57040649385252096,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Kv8NWTNRyjQfMbVtbxyrz0G5f0qHuEAQ"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.425493371077, 0.57040649385252096]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "2",
+				"Nama Warnet": "Lightning Game Center",
+				"Jalan": "HR. Soebrantas",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Mid End",
+				"Rating": "3.6",
+				"Kondisi": "Nyaman",
+				"x": 101.3754023,
+				"Y": 0.4639246,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KtsHHqfwZyvSU_shmEULAFsD29S-e4fk"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.3754023, 0.4639246]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "3",
+				"Nama Warnet": "Flame Game Center",
+				"Jalan": "HR. Soebrantas",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Mid End",
+				"Rating": "3.2",
+				"Kondisi": "Nyaman",
+				"x": 101.371557,
+				"Y": 0.4646772,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KnkD6cA-3B9jXa_G2uVGk2tgfiXoqsGY"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.371557, 0.4646772]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "4",
+				"Nama Warnet": "NEO 5",
+				"Jalan": "Delima",
+				"Kecamatan": "Tampan",
+				"Spec PC": "High End",
+				"Rating": "4.5999999999999996",
+				"Kondisi": "Nyaman",
+				"x": 101.4039601,
+				"Y": 0.4654638,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KfX4kdFy56FqbU0KTCes87eRu2i6uopZ"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4039601, 0.4654638]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "5",
+				"Nama Warnet": "Fox Gaming",
+				"Jalan": "Delima",
+				"Kecamatan": "Tampan",
+				"Spec PC": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Biasa",
+				"x": 101.4039695,
+				"Y": 0.4655013,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Kc82laZg9feEad58PybwmR-RfYwwQ9b1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4039695, 0.4655013]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "6",
+				"Nama Warnet": "Hangout Game Center",
+				"Jalan": "Delima",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4038673,
+				"Y": 0.4657367,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Ka5U8SWeeLS54pV_OWsY6J1ifPuZlFAr"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4038673, 0.4657367]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "7",
+				"Nama Warnet": "Hardcore Game Center",
+				"Jalan": "Delima",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4041077,
+				"Y": 0.4663411,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KZa8ICzuK9YFr82rhWlsI0vqWU3uv83l"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4041077, 0.4663411]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "8",
+				"Nama Warnet": "Newbee",
+				"Jalan": "Delima",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4052563,
+				"Y": 0.4711572,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KXED8mgpRDFR3oEEEWaCZwHlCxjFt9_S"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4052563, 0.4711572]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "9",
+				"Nama Warnet": "Genesis Gaming Net",
+				"Jalan": "Pembangunan",
+				"Kecamatan": "Payung Sekaki",
+				"Spec PC": "High End",
+				"Rating": "4.9",
+				"Kondisi": "Sangat Nyaman",
+				"x": 101.4309485,
+				"Y": 0.5097776,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KSr_IIhTcSfW6SsuF2ptWjasqfrfWPMJ"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4309485, 0.5097776]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "10",
+				"Nama Warnet": "War-Net Gaming",
+				"Jalan": "Pembangunan",
+				"Kecamatan": "Payung Sekaki",
+				"Spec PC": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Biasa",
+				"x": 101.4315406,
+				"Y": 0.5081362,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KSr_IIhTcSfW6SsuF2ptWjasqfrfWPMJ"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4315406, 0.5081362]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "11",
+				"Nama Warnet": "-",
+				"Jalan": "Balam Ujung",
+				"Kecamatan": "Sukajadi",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Kurang ",
+				"x": 101.432819,
+				"Y": 0.5082689,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KRNSq1HaZOVaGxU0hzraMjpFxXL7mu7P"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.432819, 0.5082689]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "12",
+				"Nama Warnet": "Champion Net",
+				"Jalan": "Balam Ujung",
+				"Kecamatan": "Sukajadi",
+				"Spec PC": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Kurang ",
+				"x": 101.432234,
+				"Y": 0.5081036,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KRNSq1HaZOVaGxU0hzraMjpFxXL7mu7P"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.432234, 0.5081036]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "13",
+				"Nama Warnet": "Jovan Net 2",
+				"Jalan": "Paus Ujung",
+				"Kecamatan": "Marpoyan Damai",
+				"Spec PC": "High End",
+				"Rating": "4.5999999999999996",
+				"Kondisi": "Biasa",
+				"x": 101.438007,
+				"Y": 0.48908,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1JxKHLGxLUgox9NCUSHfm8Nbg55JqLaeS"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.438007, 0.48908]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "14",
+				"Nama Warnet": "Point Net",
+				"Jalan": "Paus Ujung",
+				"Kecamatan": "Marpoyan Damai",
+				"Spec PC": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Kurang ",
+				"x": 101.4377593,
+				"Y": 0.4891043,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1JT4um6vTZPhFHJ2nQT1vJWZ_TgXBnO6A"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4377593, 0.4891043]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "15",
+				"Nama Warnet": "NEO Esport Arena",
+				"Jalan": "Paus ",
+				"Kecamatan": "Marpoyan Damai",
+				"Spec PC": "High End",
+				"Rating": "4.5",
+				"Kondisi": "Nyaman",
+				"x": 101.4385499,
+				"Y": 0.4904269,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1JOJaSAgpi88K1DLDKOppek2SUSTMgfgx"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4385499, 0.4904269]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "16",
+				"Nama Warnet": "Versus CyberSport",
+				"Jalan": "Paus",
+				"Kecamatan": "Marpoyan Damai",
+				"Spec PC": "High End",
+				"Rating": "4.8",
+				"Kondisi": "Nyaman",
+				"x": 101.439109,
+				"Y": 0.497463,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Hduiu2zvZIpRFhgmDQLiwnbBlaKKs6LL"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.439109, 0.497463]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "17",
+				"Nama Warnet": "-",
+				"Jalan": "Bukit Barisan",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4973625,
+				"Y": 0.4853918,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1JmnuMy_h2IUSnQX9YxkbZcKti2RejRZ9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4973625, 0.4853918]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "18",
+				"Nama Warnet": "-",
+				"Jalan": "Sepakat ",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.5123267,
+				"Y": 0.47696,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1J1_adIxTIPB0NaIAm0yzFT7XhS2KJioP"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.5123267, 0.47696]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "19",
+				"Nama Warnet": "Net 1 Game Center",
+				"Jalan": "Bukit Barisan",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "High End",
+				"Rating": "4.3",
+				"Kondisi": "Nyaman",
+				"x": 101.4929726,
+				"Y": 0.4867383,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1IyumA_sjkYsEqa7pxPDhbMpr4WsFQu9u"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4929726, 0.4867383]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "20",
+				"Nama Warnet": "Game House Net",
+				"Jalan": "Bukit Barisan",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Biasa",
+				"x": 101.4940797,
+				"Y": 0.4863433,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1IkyLMAnV_3oWiTzgNjqp8t8pRr0UpjIU"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4940797, 0.4863433]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "21",
+				"Nama Warnet": "Akagami Esport",
+				"Jalan": "Bukit Barisan",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "Mid End",
+				"Rating": "3.8",
+				"Kondisi": "Biasa",
+				"x": 101.4922112,
+				"Y": 0.4871353,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1IkyLMAnV_3oWiTzgNjqp8t8pRr0UpjIU"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4922112, 0.4871353]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "22",
+				"Nama Warnet": "Dunia Net",
+				"Jalan": "Bukit Barisan",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "High End",
+				"Rating": "4.7",
+				"Kondisi": "Nyaman",
+				"x": 101.4848576,
+				"Y": 0.4936229,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1HsHjINoB2o4N_6vVql-sAMClhuI6k5k9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4848576, 0.4936229]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "23",
+				"Nama Warnet": "NEO 1 Esport Arena",
+				"Jalan": "Imam Munandar",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "Mid End",
+				"Rating": "3.8",
+				"Kondisi": "Nyaman",
+				"x": 101.4878767,
+				"Y": 0.4948861,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1IY8Z-ncys_kMEFfvEcFLN9-8gBQ7W93i"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4878767, 0.4948861]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "24",
+				"Nama Warnet": "Aegis Game Center",
+				"Jalan": "Imam Munandar",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "Mid End",
+				"Rating": "3.3",
+				"Kondisi": "Biasa",
+				"x": 101.4663711,
+				"Y": 0.4990204,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1IQDNjyql9ZS0XQZ1ZsYzTm0WQ6_lpNHA"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4663711, 0.4990204]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "25",
+				"Nama Warnet": "Power Net",
+				"Jalan": "Samarinda",
+				"Kecamatan": "Bukit Raya",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4621877,
+				"Y": 0.5001479,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1b-cKAW5oEbrDDg1xHjEZmLvNdvwVvjLO"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4621877, 0.5001479]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "26",
+				"Nama Warnet": "Da Arena",
+				"Jalan": "Lembaga Permasyarakatan",
+				"Kecamatan": "Bukit Raya",
+				"Spec PC": "High End",
+				"Rating": "4.0999999999999996",
+				"Kondisi": "Nyaman",
+				"x": 101.4618605,
+				"Y": 0.5079412,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1TGrZZDFgYqiSaX77tv_R1qes40jXlBJ2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4618605, 0.5079412]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "27",
+				"Nama Warnet": "CM esport",
+				"Jalan": "Lembaga Permasyarakatan",
+				"Kecamatan": "Bukit Raya",
+				"Spec PC": "High End",
+				"Rating": "4.1",
+				"Kondisi": "Nyaman",
+				"x": 101.461509,
+				"Y": 0.5086413,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1By6-6tcSxHOcNzWyDszUeLulksfWWFDI"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.461509, 0.5086413]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "28",
+				"Nama Warnet": "Taurus E-Sport Arena",
+				"Jalan": "Letjend.S.Parman",
+				"Kecamatan": "Sail",
+				"Spec PC": "High End",
+				"Rating": "4.5",
+				"Kondisi": "Nyaman",
+				"x": 101.4583532,
+				"Y": 0.5170735,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1oYHnf98Oj93sWH-VCuQn42nxkpM4Civ4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4583532, 0.5170735]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "29",
+				"Nama Warnet": "NEO 3 Esport Arena",
+				"Jalan": "Hangtuah Ujung",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "High End",
+				"Rating": "4.7",
+				"Kondisi": "Nyaman",
+				"x": 101.474232,
+				"Y": 0.5244219,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1H6QnnuoazxLscfDhlo5XroAWO7KZXHFL"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.474232, 0.5244219]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "30",
+				"Nama Warnet": "-",
+				"Jalan": "Hangtuah Ujung",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Kurang ",
+				"x": 101.4833265,
+				"Y": 0.5185627,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1J8xYjjH5VruKS_DCxljNqLBsELXZY0UY"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4833265, 0.5185627]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "31",
+				"Nama Warnet": "City Net",
+				"Jalan": "Tengku Zainal Abidin",
+				"Kecamatan": "Pekanbaru Kota",
+				"Spec PC": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Nyaman",
+				"x": 101.448922,
+				"Y": 0.5305904,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1HsHjINoB2o4N_6vVql-sAMClhuI6k5k9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.448922, 0.5305904]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "32",
+				"Nama Warnet": "Fun CyberCafe",
+				"Jalan": "Tengku Zainal Abidin",
+				"Kecamatan": "Pekanbaru Kota",
+				"Spec PC": "High End",
+				"Rating": "4.5",
+				"Kondisi": "Nyaman",
+				"x": 101.448967,
+				"Y": 0.53042,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Hri7vQLyk5RQT6h7Hyax1TKXHTbeRfs5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.448967, 0.53042]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "33",
+				"Nama Warnet": "-",
+				"Jalan": "Paus",
+				"Kecamatan": "Marpoyan Damai",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4389075,
+				"Y": 0.4971944,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Hqeb66PZ03vwzQt_-JJfRDC2bpcycgUM"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4389075, 0.4971944]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "34",
+				"Nama Warnet": "-",
+				"Jalan": "Paus",
+				"Kecamatan": "Marpoyan Damai",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4384861,
+				"Y": 0.4958196,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1ILlLpICJCsa7z9GDRK9cnqonI8NHSrOQ"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4384861, 0.4958196]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "35",
+				"Nama Warnet": "Miracle E-Sport Arena",
+				"Jalan": "Rajawali",
+				"Kecamatan": "Sukajadi",
+				"Spec PC": "High End",
+				"Rating": "4.7",
+				"Kondisi": "Sangat Nyaman",
+				"x": 101.43364,
+				"Y": 0.519869,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1HdtgfU9z9m8e20gODE3aDPn0fjtBr9sR"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.43364, 0.519869]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "36",
+				"Nama Warnet": "Edge Warnet Gaming Esport",
+				"Jalan": "Sekolah",
+				"Kecamatan": "Rumbai Pesisir",
+				"Spec PC": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Nyaman",
+				"x": 101.4474062,
+				"Y": 0.5604705,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1dK355f7aIEGrYKQ8Djvfrmlk1aPJundt"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4474062, 0.5604705]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "37",
+				"Nama Warnet": "Yura E-sport Arena",
+				"Jalan": "Sekolah",
+				"Kecamatan": "Rumbai Pesisir",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Nyaman",
+				"x": 101.43639,
+				"Y": 0.559883,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1dQIiDBQQzVzdmm9TR0tIuZqk0kbrwQn8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.43639, 0.559883]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "38",
+				"Nama Warnet": "13-Link E-Sport Arena Cabang Marpoyan",
+				"Jalan": "Khairuddin Nst",
+				"Kecamatan": "Bukit Raya",
+				"Spec PC": "High End",
+				"Rating": "4",
+				"Kondisi": "Sangat Nyaman",
+				"x": 101.452993,
+				"Y": 0.452352,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1dvWT8HuXDgsEb9uQTPW-cT_CwAYcWs30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.452993, 0.452352]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "39",
+				"Nama Warnet": "DragonZ eSport Center",
+				"Jalan": "Khairuddin Nst",
+				"Kecamatan": "Bukit Raya",
+				"Spec PC": "High End",
+				"Rating": "4.5",
+				"Kondisi": "Sangat Nyaman",
+				"x": 101.451432,
+				"Y": 0.447925,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1UMoPoIJWn0CTH-bnx--2gMt-i9CVMZvL"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.451432, 0.447925]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "40",
+				"Nama Warnet": "R2M Net @E-Sport Arena",
+				"Jalan": "HR. Soebrantas",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Nyaman",
+				"x": 101.398152,
+				"Y": 0.463859,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1QDtQ3UrWZrB69jb4aLGkMsRtEtlKGULx"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.398152, 0.463859]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "41",
+				"Nama Warnet": "Paradox E-Sport Arena",
+				"Jalan": "Manyar Sakti",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Mid End",
+				"Rating": "3.7",
+				"Kondisi": "Nyamam",
+				"x": 101.3856591,
+				"Y": 0.4683051,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1PFO6txHFBY5ZLRuG_ZP0jehIkKUMKmkG"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.3856591, 0.4683051]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "42",
+				"Nama Warnet": "Brother 168 E-Sport",
+				"Jalan": "Suka Karya",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Mid End",
+				"Rating": "3.9",
+				"Kondisi": "Nyaman",
+				"x": 101.386078,
+				"Y": 0.452589,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1dQfBL2RTvvjm4ZUuhWiahiTZ8-23hfIc"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.386078, 0.452589]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "43",
+				"Nama Warnet": "ROG-Kualu E-Sport Arena",
+				"Jalan": "Suka Karya",
+				"Kecamatan": "Tampan",
+				"Spec PC": "High End",
+				"Rating": "4.0",
+				"Kondisi": "Nyaman",
+				"x": 101.385665,
+				"Y": 0.448572,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1gG5B_So-js_Z7UFok3Z4W6o0RF58iO7f"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.385665, 0.448572]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "44",
+				"Nama Warnet": "Voxy Esport",
+				"Jalan": "Suka Karya",
+				"Kecamatan": "Tampan",
+				"Spec PC": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Sangat Nyaman",
+				"x": 101.385857,
+				"Y": 0.447002,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1aYYE-HQQl4sqyTjjtJa9N25xlV_TCx93"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.385857, 0.447002]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "45",
+				"Nama Warnet": "Grand E-Sport",
+				"Jalan": "Garuda Sakti",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Mid End",
+				"Rating": "3.6",
+				"Kondisi": "Biasa",
+				"x": 101.364548,
+				"Y": 0.480997,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1AQDbfK3V4NJQS7ToXAt-wPoWyHxZaNhN"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.364548, 0.480997]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "46",
+				"Nama Warnet": "Warrior e-sport arena",
+				"Jalan": "Guru Sulaiman",
+				"Kecamatan": "Payung Sekaki",
+				"Spec PC": "High End",
+				"Rating": "4.0999999999999996",
+				"Kondisi": "Nyaman",
+				"x": 101.427597,
+				"Y": 0.533679,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=19wuPDLZngVpDisFxcoZ2OJdiPT8aZjzd"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.427597, 0.533679]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "47",
+				"Nama Warnet": "F@Y.NET",
+				"Jalan": "Pepaya",
+				"Kecamatan": "Sukajadi",
+				"Spec PC": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Biasa",
+				"x": 101.444387,
+				"Y": 0.515886,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1tjmzhb_q997fnqEN_IxvDxUasNyCFSD6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.444387, 0.515886]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "48",
+				"Nama Warnet": "it.Net",
+				"Jalan": "Rajawali",
+				"Kecamatan": "Sukajadi",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Tidak Nyaman",
+				"x": 101.433954,
+				"Y": 0.516097,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Pka2C8MgbE5zQbh9YnLlnN5xJMJou-oE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.433954, 0.516097]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "49",
+				"Nama Warnet": "Jovan Net 1",
+				"Jalan": "Rajawali",
+				"Kecamatan": "Sukajadi",
+				"Spec PC": "High End",
+				"Rating": "4.1",
+				"Kondisi": "Biasa",
+				"x": 101.433744,
+				"Y": 0.520171,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1J8xYjjH5VruKS_DCxljNqLBsELXZY0UY"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.433744, 0.520171]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "50",
+				"Nama Warnet": "Graha Net",
+				"Jalan": "Dahlia",
+				"Kecamatan": "Sukajadi",
+				"Spec PC": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Biasa",
+				"x": 101.43857,
+				"Y": 0.52282,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1gRUuTELWCDdM0BCIOrdidBJmz9Zc5Mzo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.43857, 0.52282]
+			}
+		}
+	]
+}

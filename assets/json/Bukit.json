@@ -1,0 +1,101 @@
+{
+	"type": "FeatureCollection",
+	"name": "Bukit",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"Nama": "Power Net",
+				"Jalan": "Samarinda",
+				"Kecamatan": "Bukit Raya",
+				"Spec": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4621877,
+				"Y": 0.5001479,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1b-cKAW5oEbrDDg1xHjEZmLvNdvwVvjLO"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4621877, 0.5001479]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "Da Arena",
+				"Jalan": "Lembaga Permasyarakatan",
+				"Kecamatan": "Bukit Raya",
+				"Spec": "High End",
+				"Rating": "4.0999999999999996",
+				"Kondisi": "Nyaman",
+				"x": 101.4618605,
+				"Y": 0.5079412,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1TGrZZDFgYqiSaX77tv_R1qes40jXlBJ2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4618605, 0.5079412]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "CM esport",
+				"Jalan": "Lembaga Permasyarakatan",
+				"Kecamatan": "Bukit Raya",
+				"Spec": "High End",
+				"Rating": "4.1",
+				"Kondisi": "Nyaman",
+				"x": 101.461509,
+				"Y": 0.5086413,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1By6-6tcSxHOcNzWyDszUeLulksfWWFDI"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.461509, 0.5086413]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "13-Link E-Sport Arena Cabang Marpoyan",
+				"Jalan": "Khairuddin Nst",
+				"Kecamatan": "Bukit Raya",
+				"Spec": "High End",
+				"Rating": "4",
+				"Kondisi": "Sangat Nyaman",
+				"x": 101.452993,
+				"Y": 0.452352,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1dvWT8HuXDgsEb9uQTPW-cT_CwAYcWs30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.452993, 0.452352]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "DragonZ eSport Center",
+				"Jalan": "Khairuddin Nst",
+				"Kecamatan": "Bukit Raya",
+				"Spec": "High End",
+				"Rating": "4.5",
+				"Kondisi": "Sangat Nyaman",
+				"x": 101.451432,
+				"Y": 0.447925,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1UMoPoIJWn0CTH-bnx--2gMt-i9CVMZvL"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.451432, 0.447925]
+			}
+		}
+	]
+}

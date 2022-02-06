@@ -1,0 +1,263 @@
+{
+	"type": "FeatureCollection",
+	"name": "Tampan",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"Nama Warnet": "-",
+				"Jalan": "HR. Soebrantas",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.3790632,
+				"Y": 0.464063,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Kv8NWTNRyjQfMbVtbxyrz0G5f0qHuEAQ"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.3790632, 0.464063]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama Warnet": "Lightning Game Center",
+				"Jalan": "HR. Soebrantas",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Mid End",
+				"Rating": "3.6",
+				"Kondisi": "Nyaman",
+				"x": 101.3754023,
+				"Y": 0.4639246,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KtsHHqfwZyvSU_shmEULAFsD29S-e4fk"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.3754023, 0.4639246]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama Warnet": "Flame Game Center",
+				"Jalan": "HR. Soebrantas",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Mid End",
+				"Rating": "3.2",
+				"Kondisi": "Nyaman",
+				"x": 101.371557,
+				"Y": 0.4646772,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KnkD6cA-3B9jXa_G2uVGk2tgfiXoqsGY"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.371557, 0.4646772]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama Warnet": "NEO 5",
+				"Jalan": "Delima",
+				"Kecamatan": "Tampan",
+				"Spec PC": "High End",
+				"Rating": "4.5999999999999996",
+				"Kondisi": "Nyaman",
+				"x": 101.4039601,
+				"Y": 0.4654638,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KfX4kdFy56FqbU0KTCes87eRu2i6uopZ"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4039601, 0.4654638]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama Warnet": "Fox Gaming",
+				"Jalan": "Delima",
+				"Kecamatan": "Tampan",
+				"Spec PC": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Biasa",
+				"x": 101.4039695,
+				"Y": 0.4655013,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Kc82laZg9feEad58PybwmR-RfYwwQ9b1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4039695, 0.4655013]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama Warnet": "Hangout Game Center",
+				"Jalan": "Delima",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4038673,
+				"Y": 0.4657367,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Ka5U8SWeeLS54pV_OWsY6J1ifPuZlFAr"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4038673, 0.4657367]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama Warnet": "Hardcore Game Center",
+				"Jalan": "Delima",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4041077,
+				"Y": 0.4663411,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KZa8ICzuK9YFr82rhWlsI0vqWU3uv83l"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4041077, 0.4663411]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama Warnet": "Newbee",
+				"Jalan": "Delima",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4052563,
+				"Y": 0.4711572,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KXED8mgpRDFR3oEEEWaCZwHlCxjFt9_S"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4052563, 0.4711572]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama Warnet": "R2M Net @E-Sport Arena",
+				"Jalan": "HR. Soebrantas",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Nyaman",
+				"x": 101.398152,
+				"Y": 0.463859,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1QDtQ3UrWZrB69jb4aLGkMsRtEtlKGULx"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.398152, 0.463859]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama Warnet": "Paradox E-Sport Arena",
+				"Jalan": "Manyar Sakti",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Mid End",
+				"Rating": "3.7",
+				"Kondisi": "Nyamam",
+				"x": 101.3856591,
+				"Y": 0.4683051,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1PFO6txHFBY5ZLRuG_ZP0jehIkKUMKmkG"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.3856591, 0.4683051]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama Warnet": "Brother 168 E-Sport",
+				"Jalan": "Suka Karya",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Mid End",
+				"Rating": "3.9",
+				"Kondisi": "Nyaman",
+				"x": 101.386078,
+				"Y": 0.452589,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1dQfBL2RTvvjm4ZUuhWiahiTZ8-23hfIc"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.386078, 0.452589]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama Warnet": "ROG-Kualu E-Sport Arena",
+				"Jalan": "Suka Karya",
+				"Kecamatan": "Tampan",
+				"Spec PC": "High End",
+				"Rating": "4.0",
+				"Kondisi": "Nyaman",
+				"x": 101.385665,
+				"Y": 0.448572,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1gG5B_So-js_Z7UFok3Z4W6o0RF58iO7f"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.385665, 0.448572]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama Warnet": "Voxy Esport",
+				"Jalan": "Suka Karya",
+				"Kecamatan": "Tampan",
+				"Spec PC": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Sangat Nyaman",
+				"x": 101.385857,
+				"Y": 0.447002,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1aYYE-HQQl4sqyTjjtJa9N25xlV_TCx93"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.385857, 0.447002]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama Warnet": "Grand E-Sport",
+				"Jalan": "Garuda Sakti",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Mid End",
+				"Rating": "3.6",
+				"Kondisi": "Biasa",
+				"x": 101.364548,
+				"Y": 0.480997,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1AQDbfK3V4NJQS7ToXAt-wPoWyHxZaNhN"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.364548, 0.480997]
+			}
+		}
+	]
+}

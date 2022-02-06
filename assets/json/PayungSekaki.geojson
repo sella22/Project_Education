@@ -1,0 +1,66 @@
+{
+	"type": "FeatureCollection",
+	"name": "PayungSekaki",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"Nama": "Genesis Gaming Net",
+				"Jalan": "Pembangunan",
+				"Kecamatan": "Payung Sekaki",
+				"Spec": "High End",
+				"Rating": "4.9",
+				"Kondisi": "Sangat Nyaman",
+				"x": 101.4309485,
+				"Y": 0.5097776,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KSr_IIhTcSfW6SsuF2ptWjasqfrfWPMJ"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4309485, 0.5097776]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "War-Net Gaming",
+				"Jalan": "Pembangunan",
+				"Kecamatan": "Payung Sekaki",
+				"Spec": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Biasa",
+				"x": 101.4315406,
+				"Y": 0.5081362,
+				"Foto": "https://drive.google.com\/uc?export=view&id=1KRSB0XNL2Lm1RGdrT9FgJ7nFX5M__dS4"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4315406, 0.5081362]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "Warrior e-sport arena",
+				"Jalan": "Guru Sulaiman",
+				"Kecamatan": "Payung Sekaki",
+				"Spec": "High End",
+				"Rating": "4.0999999999999996",
+				"Kondisi": "Nyaman",
+				"x": 101.427597,
+				"Y": 0.533679,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=19wuPDLZngVpDisFxcoZ2OJdiPT8aZjzd"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.427597, 0.533679]
+			}
+		}
+    ]
+}
+    

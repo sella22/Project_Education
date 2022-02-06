@@ -1,0 +1,277 @@
+{
+	"type": "FeatureCollection",
+	"name": "LowEnd",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"NO": "1",
+				"Nama Warnet": "-",
+				"Jalan": "HR. Soebrantas",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.3790632,
+				"Y": 0.464063,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Kv8NWTNRyjQfMbVtbxyrz0G5f0qHuEAQ"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.3790632, 0.464063]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "6",
+				"Nama Warnet": "Hangout Game Center",
+				"Jalan": "Delima",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4038673,
+				"Y": 0.4657367,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Ka5U8SWeeLS54pV_OWsY6J1ifPuZlFAr"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4038673, 0.4657367]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "7",
+				"Nama Warnet": "Hardcore Game Center",
+				"Jalan": "Delima",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4041077,
+				"Y": 0.4663411,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KZa8ICzuK9YFr82rhWlsI0vqWU3uv83l"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4041077, 0.4663411]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "8",
+				"Nama Warnet": "Newbee",
+				"Jalan": "Delima",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4052563,
+				"Y": 0.4711572,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KXED8mgpRDFR3oEEEWaCZwHlCxjFt9_S"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4052563, 0.4711572]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "11",
+				"Nama Warnet": "-",
+				"Jalan": "Balam Ujung",
+				"Kecamatan": "Sukajadi",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Kurang ",
+				"x": 101.432819,
+				"Y": 0.5082689,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KRNSq1HaZOVaGxU0hzraMjpFxXL7mu7P"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.432819, 0.5082689]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "17",
+				"Nama Warnet": "-",
+				"Jalan": "Bukit Barisan",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4973625,
+				"Y": 0.4853918,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1JmnuMy_h2IUSnQX9YxkbZcKti2RejRZ9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4973625, 0.4853918]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "18",
+				"Nama Warnet": "-",
+				"Jalan": "Sepakat ",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.5123267,
+				"Y": 0.47696,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1J1_adIxTIPB0NaIAm0yzFT7XhS2KJioP"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.5123267, 0.47696]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "25",
+				"Nama Warnet": "Power Net",
+				"Jalan": "Samarinda",
+				"Kecamatan": "Bukit Raya",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4621877,
+				"Y": 0.5001479,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1b-cKAW5oEbrDDg1xHjEZmLvNdvwVvjLO"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4621877, 0.5001479]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "30",
+				"Nama Warnet": "-",
+				"Jalan": "Hangtuah Ujung",
+				"Kecamatan": "Tenayan Raya",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Kurang ",
+				"x": 101.4833265,
+				"Y": 0.5185627,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1J8xYjjH5VruKS_DCxljNqLBsELXZY0UY"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4833265, 0.5185627]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "33",
+				"Nama Warnet": "-",
+				"Jalan": "Paus",
+				"Kecamatan": "Marpoyan Damai",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4389075,
+				"Y": 0.4971944,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Hqeb66PZ03vwzQt_-JJfRDC2bpcycgUM"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4389075, 0.4971944]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "34",
+				"Nama Warnet": "-",
+				"Jalan": "Paus",
+				"Kecamatan": "Marpoyan Damai",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4384861,
+				"Y": 0.4958196,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1ILlLpICJCsa7z9GDRK9cnqonI8NHSrOQ"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4384861, 0.4958196]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "37",
+				"Nama Warnet": "Yura E-sport Arena",
+				"Jalan": "Sekolah",
+				"Kecamatan": "Rumbai Pesisir",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Nyaman",
+				"x": 101.43639,
+				"Y": 0.559883,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1dQIiDBQQzVzdmm9TR0tIuZqk0kbrwQn8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.43639, 0.559883]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "40",
+				"Nama Warnet": "R2M Net @E-Sport Arena",
+				"Jalan": "HR. Soebrantas",
+				"Kecamatan": "Tampan",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Nyaman",
+				"x": 101.398152,
+				"Y": 0.463859,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1QDtQ3UrWZrB69jb4aLGkMsRtEtlKGULx"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.398152, 0.463859]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"NO": "48",
+				"Nama Warnet": "it.Net",
+				"Jalan": "Rajawali",
+				"Kecamatan": "Sukajadi",
+				"Spec PC": "Low End",
+				"Rating": "-",
+				"Kondisi": "Tidak Nyaman",
+				"x": 101.433954,
+				"Y": 0.516097,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Pka2C8MgbE5zQbh9YnLlnN5xJMJou-oE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.433954, 0.516097]
+			}
+		}
+	]
+}

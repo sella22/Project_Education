@@ -1,0 +1,119 @@
+{
+	"type": "FeatureCollection",
+	"name": "Marpoyan",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"Nama": "Jovan Net 2",
+				"Jalan": "Paus Ujung",
+				"Kecamatan": "Marpoyan Damai",
+				"Spec": "High End",
+				"Rating": "4.5999999999999996",
+				"Kondisi": "Biasa",
+				"x": 101.438007,
+				"Y": 0.48908,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1JxKHLGxLUgox9NCUSHfm8Nbg55JqLaeS"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.438007, 0.48908]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "Point Net",
+				"Jalan": "Paus Ujung",
+				"Kecamatan": "Marpoyan Damai",
+				"Spec": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Kurang ",
+				"x": 101.4377593,
+				"Y": 0.4891043,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1JT4um6vTZPhFHJ2nQT1vJWZ_TgXBnO6A"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4377593, 0.4891043]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "NEO Esport Arena",
+				"Jalan": "Paus ",
+				"Kecamatan": "Marpoyan Damai",
+				"Spec": "High End",
+				"Rating": "4.5",
+				"Kondisi": "Nyaman",
+				"x": 101.4385499,
+				"Y": 0.4904269,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1JOJaSAgpi88K1DLDKOppek2SUSTMgfgx"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4385499, 0.4904269]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "Versus CyberSport",
+				"Jalan": "Paus",
+				"Kecamatan": "Marpoyan Damai",
+				"Spec": "High End",
+				"Rating": "4.8",
+				"Kondisi": "Nyaman",
+				"x": 101.439109,
+				"Y": 0.497463,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Hduiu2zvZIpRFhgmDQLiwnbBlaKKs6LL"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.439109, 0.497463]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "-",
+				"Jalan": "Paus",
+				"Kecamatan": "Marpoyan Damai",
+				"Spec": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4389075,
+				"Y": 0.4971944,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Hqeb66PZ03vwzQt_-JJfRDC2bpcycgUM"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4389075, 0.4971944]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "-",
+				"Jalan": "Paus",
+				"Kecamatan": "Marpoyan Damai",
+				"Spec": "Low End",
+				"Rating": "-",
+				"Kondisi": "Biasa",
+				"x": 101.4384861,
+				"Y": 0.4958196,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1ILlLpICJCsa7z9GDRK9cnqonI8NHSrOQ"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.4384861, 0.4958196]
+			}
+		}
+	]
+}

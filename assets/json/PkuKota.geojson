@@ -1,0 +1,47 @@
+{
+	"type": "FeatureCollection",
+	"name": "PkuKota",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"Nama": "City Net",
+				"Jalan": "Tengku Zainal Abidin",
+				"Kecamatan": "Pekanbaru Kota",
+				"Spec": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Nyaman",
+				"x": 101.448922,
+				"Y": 0.5305904,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1HsHjINoB2o4N_6vVql-sAMClhuI6k5k9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.448922, 0.5305904]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "Fun CyberCafe",
+				"Jalan": "Tengku Zainal Abidin",
+				"Kecamatan": "Pekanbaru Kota",
+				"Spec": "High End",
+				"Rating": "4.5",
+				"Kondisi": "Nyaman",
+				"x": 101.448967,
+				"Y": 0.53042,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Hri7vQLyk5RQT6h7Hyax1TKXHTbeRfs5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.448967, 0.53042]
+			}
+		}		
+	]
+}

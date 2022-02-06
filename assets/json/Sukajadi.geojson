@@ -1,0 +1,137 @@
+{
+	"type": "FeatureCollection",
+	"name": "Sukajadi",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"Nama": "-",
+				"Jalan": "Balam Ujung",
+				"Kecamatan": "Sukajadi",
+				"Spec": "Low End",
+				"Rating": "-",
+				"Kondisi": "Kurang ",
+				"x": 101.432819,
+				"Y": 0.5082689,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KRNSq1HaZOVaGxU0hzraMjpFxXL7mu7P"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.432819, 0.5082689]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "Champion Net",
+				"Jalan": "Balam Ujung",
+				"Kecamatan": "Sukajadi",
+				"Spec": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Kurang ",
+				"x": 101.432234,
+				"Y": 0.5081036,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1KRNSq1HaZOVaGxU0hzraMjpFxXL7mu7P"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.432234, 0.5081036]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "Miracle E-Sport Arena",
+				"Jalan": "Rajawali",
+				"Kecamatan": "Sukajadi",
+				"Spec": "High End",
+				"Rating": "4.7",
+				"Kondisi": "Sangat Nyaman",
+				"x": 101.43364,
+				"Y": 0.519869,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1HdtgfU9z9m8e20gODE3aDPn0fjtBr9sR"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.43364, 0.519869]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "F@Y.NET",
+				"Jalan": "Pepaya",
+				"Kecamatan": "Sukajadi",
+				"Spec": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Biasa",
+				"x": 101.444387,
+				"Y": 0.515886,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1tjmzhb_q997fnqEN_IxvDxUasNyCFSD6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.444387, 0.515886]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "it.Net",
+				"Jalan": "Rajawali",
+				"Kecamatan": "Sukajadi",
+				"Spec": "Low End",
+				"Rating": "-",
+				"Kondisi": "Tidak Nyaman",
+				"x": 101.433954,
+				"Y": 0.516097,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1Pka2C8MgbE5zQbh9YnLlnN5xJMJou-oE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.433954, 0.516097]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "Jovan Net 1",
+				"Jalan": "Rajawali",
+				"Kecamatan": "Sukajadi",
+				"Spec": "High End",
+				"Rating": "4.1",
+				"Kondisi": "Biasa",
+				"x": 101.433744,
+				"Y": 0.520171,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1J8xYjjH5VruKS_DCxljNqLBsELXZY0UY"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.433744, 0.520171]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Nama": "Graha Net",
+				"Jalan": "Dahlia",
+				"Kecamatan": "Sukajadi",
+				"Spec": "High End",
+				"Rating": "5.0",
+				"Kondisi": "Biasa",
+				"x": 101.43857,
+				"Y": 0.52282,
+				"Foto": "https:\/\/drive.google.com\/uc?export=view&id=1gRUuTELWCDdM0BCIOrdidBJmz9Zc5Mzo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.43857, 0.52282]
+			}
+		}
+	]
+}
